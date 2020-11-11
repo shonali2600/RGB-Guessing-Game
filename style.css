@@ -36,12 +36,11 @@ h1{
     border: none;
     font-size: 1.2em;
     font-weight: bold;
-    color: rgb(0, 51, 128);
     outline: none;
     transition: background-color, 0.5s, ease;
 }
 #message{
-    color: black;
+    color: blue;
     font-size: 1.5em;
 }
 #reset:hover, #easyBtn:hover, #hardBtn:hover{
