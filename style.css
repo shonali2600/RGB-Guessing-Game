@@ -50,4 +50,5 @@ h1{
 /* CSS of JS file */
 .active{
     background-color: teal;
+    color: white;
 }
